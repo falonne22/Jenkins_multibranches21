@@ -5,3 +5,5 @@ some more changes dondddddddeddd
 
 cccccc
 
+accelaration, valeur de rachat
+valeur reduite
